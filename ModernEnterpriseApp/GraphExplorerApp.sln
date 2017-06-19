@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26510.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A07B5EB6-E848-4116-A8D0-A826331D98C6}") = "GraphExplorerApp", "ModernEnterpriseApp\GraphExplorerApp.sfproj", "{9FE6DAC4-BFD4-4C97-8334-6FD60F661ACE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FE6DAC4-BFD4-4C97-8334-6FD60F661ACE}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{9FE6DAC4-BFD4-4C97-8334-6FD60F661ACE}.Debug|x64.ActiveCfg = Debug|x64
+		{9FE6DAC4-BFD4-4C97-8334-6FD60F661ACE}.Debug|x64.Build.0 = Debug|x64
+		{9FE6DAC4-BFD4-4C97-8334-6FD60F661ACE}.Debug|x64.Deploy.0 = Debug|x64
+		{9FE6DAC4-BFD4-4C97-8334-6FD60F661ACE}.Release|Any CPU.ActiveCfg = Release|x64
+		{9FE6DAC4-BFD4-4C97-8334-6FD60F661ACE}.Release|x64.ActiveCfg = Release|x64
+		{9FE6DAC4-BFD4-4C97-8334-6FD60F661ACE}.Release|x64.Build.0 = Release|x64
+		{9FE6DAC4-BFD4-4C97-8334-6FD60F661ACE}.Release|x64.Deploy.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

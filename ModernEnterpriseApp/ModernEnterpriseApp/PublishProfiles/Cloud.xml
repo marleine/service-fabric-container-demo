@@ -20,13 +20,13 @@
                                     AzureActiveDirectory="true"
                                     ServerCertThumbprint="0123456789012345678901234567890123456789" />
   -->
-  <ClusterConnectionParameters  ConnectionEndpoint="vturecek.southcentralus.cloudapp.azure.com:19000"
-                                X509Credential="true"
-                                ServerCertThumbprint="97b5463a5a3aea3a1aa18f96f45154f819a0ffb4"
-                                FindType="FindByThumbprint"
-                                FindValue="97b5463a5a3aea3a1aa18f96f45154f819a0ffb4"
-                                StoreLocation="CurrentUser"
-                                StoreName="My" />
+  <ClusterConnectionParameters ConnectionEndpoint="jarvis-dev-contdns-eus2.eastus2.cloudapp.azure.com:19000" 
+                               X509Credential="true" 
+                               ServerCertThumbprint="ADAD23A08C22E4DB932B6D8E5E87068F86C39CCA" 
+                               FindType="FindByThumbprint" 
+                               FindValue="ADAD23A08C22E4DB932B6D8E5E87068F86C39CCA" 
+                               StoreLocation="CurrentUser" 
+                               StoreName="My" />
   
   <ApplicationParameterFile Path="..\ApplicationParameters\Cloud.xml" />
 </PublishProfile>
